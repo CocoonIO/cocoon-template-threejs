@@ -44,8 +44,7 @@ As you can see, it is not neccessary to include *plugins*, *platforms* or *hooks
 
 ### About the game 
 
-* Click [here](http://codepen.io/Yakudoo/pen/YXxmYR) to test this demo on your browser.
-* Demo original [source code](http://codepen.io/Yakudoo/pen/YXxmYR)
+* Click [here](http://codepen.io/Yakudoo/pen/YXxmYR) to test this demo on your browser or to check the original source code.
 
 ### About the author
 
