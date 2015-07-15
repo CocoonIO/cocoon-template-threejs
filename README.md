@@ -3,7 +3,7 @@ Three.js template
 
 ## Introduction
 
-This demo is based on [Karim Maaloul's](http://end3r.com/) [Chill The Lion demo](http://codepen.io/Yakudoo/pen/YXxmYR). 
+This demo is based on [Karim Maaloul's](http://epic.net/) [Chill The Lion demo](http://codepen.io/Yakudoo/pen/YXxmYR). 
 
 This demo is built using [Three.js](http://threejs.org/) and [Cocoon Canvas+](https://cocoon.io/doc/canvas_plus) in default view and fullscreen. 
 
