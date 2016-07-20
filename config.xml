@@ -7,9 +7,6 @@
     <author email="karim.maaloul@gmail.com" href="http://epic.net/">
         Karim Maaloul
     </author>
-    
-    <!-- Shown in the wizard -->
-    <icon src="icon.png" />
 
         <!-- ANDROID -->
     <platform name="android">
